@@ -1,6 +1,21 @@
 body {
-    background-color: lightblue
+    background-color: rgb(210, 228, 234)
 }
 h1{
     color: brown;
+    font-size: 10px;
+}
+img{
+    height:300px;
+    width: auto;
+}
+.flex-container {
+    display: flex;
+    background-color: bisque;
+}
+.hobby {
+    background-color: aqua;
+}
+.work {
+    background-color: blueviolet;
 }
