@@ -1,0 +1,69 @@
+// to display flex contain banner in website : 
+fist code in index:html :
+ 
+<a href="https://www.facebook.com/lama.indraraj" target="_blank">
+            <img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" />
+        </a>
+        
+        <div class="flex-container">
+            <div class="hobby">
+                <h3>My Hobbies</h3>
+                <ul>
+                    <li>playing Football</li>
+                    <ul>
+                        <li>Dota 2</li>
+                        <li>clash of clans</li>
+                        <li>dribbling</li>
+                    </ul>
+                    <li>watching Movies</li>
+                    <li>swimming</li>
+                </ul>
+            </div>
+            
+            <div class="work">
+                <h3>My Work</h3>
+                <ol>
+                    <li>Teaching at Deurali</li>
+                    <li>Farming</li> 
+                </ol>
+            </div>
+        </div> 
+    </main>
+    <footer>
+
+// then code in style.css:
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.flex-container {
+    display: flex;
+}
+    
+// to flex content align :
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    background-color: red;
+    justify-content: space-evenly;
+}
+.hobby {
+    
+}
+.work {
+    
+}
+    

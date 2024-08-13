@@ -1,0 +1,149 @@
+// To make unique : go to on file Style.css :and write -
+
+body {
+    background-color: lightblue;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+// To text align center for Title:
+body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+    
+// to text align center for all text :
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+    
+// now delete h1 text align : center : constant window
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+    
+// to text align right from html and style.css :
+in index.htm:
+<a href="https://www.facebook.com/lama.indraraj" target="_blank">
+            <img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" />
+        </a>
+        <div>
+            <h3>My Hobbies</h3>
+            <ul>
+                <li>playing Football</li>
+                <ul>
+                    <li>Dota 2</li>
+                    <li>clash of clans</li>
+                    <li>dribbling</li>
+                </ul>
+                <li>watching Movies</li>
+                <li>swimming</li>
+            </ul>
+        </div>
+// in style.css
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+div {
+    text-align: right;
+
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+    // to erase bullets:
+}
+div {
+    text-align: right;
+}
+ul {
+    list-style: none;
+}
+
+// to text align righ and left for division group Hobby and works: by style.css :
+
+first : make code on index.html :
+<a href="https://www.facebook.com/lama.indraraj" target="_blank">
+            <img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" />
+        </a>
+        <div class="hobby">
+            <h3>My Hobbies</h3>
+            <ul>
+                <li>playing Football</li>
+                <ul>
+                    <li>Dota 2</li>
+                    <li>clash of clans</li>
+                    <li>dribbling</li>
+                </ul>
+                <li>watching Movies</li>
+                <li>swimming</li>
+            </ul>
+        </div>
+        
+        <div class="work">
+            <h3>My Work</h3>
+            <ol>
+                <li>Teaching at Deurali</li>
+                <li>Farming</li> 
+            </ol>
+        </div>
+// then make code on style.css:
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+
+.hobby {
+    text-align: right;
+
+}
+
+.work {
+    text-align: left;
+}
+ul {
+    list-style: none;
+}
+
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+// to inspect webpage:
+
+right click on page and click on inspect then shows different views changing
+
+
+
+    

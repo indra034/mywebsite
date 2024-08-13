@@ -1,0 +1,39 @@
+// to whover pic on pic link =>
+
+</p>
+        
+ <a href="https://www.facebook.com/lama.indraraj">  Link to my facebook profile>
+	<img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" width="200px" height="200px"/>
+</a>
+
+// to new blank window
+
+<a href="https://www.facebook.com/lama.indraraj" target="_blank">
+            <img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" width="200px" height="200px"/>
+        </a>
+
+
+//To list bullet in hobbies:
+<h3>My Hobbies</h3>
+        <ul>
+            <li>playing Football</li>
+            <ul>
+                <li>Dota 2</li>
+                <li>clash of clans</li>
+                <li>dribbling</li>
+            </ul>
+            <li>watching Movies</li>
+            <li>swimming</li>
+        </ul>
+
+// TO write copyright of website in buttom of window
+
+<li>Teaching at Deurali</li>
+            <li>Farming</li> 
+        </ol>
+    </main>
+    <footer>
+        copyright @indraraj
+    </footer>
+</body>
+ </html>

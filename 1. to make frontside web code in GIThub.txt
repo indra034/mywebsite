@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+    <main>
+        <h1>
+            Welcome to my website
+        </h1>
+        <p>
+            I am Ravi Tamang, a software engineer
+        </p>
+<img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" width="200px" height="200px"/>
+        <a href="https://www.linkedin.com/in/ravitmg"> Link to my LinkedIn profile</a>
+Ravi Tmg
+6:57 AM
+<h3>My hobbies</h3>
+        <ul>
+            <li>Playing Games</li>
+            <li>Watching Anime</li>
+        </ul>
+
+        <h3>My Work</h3>
+        <ol>
+            <li>Keela</li>
+            <li>Danphe Tech</li>
+        </ol>
+</main>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+    <main>
+        <h1>
+            Welcome to my website
+        </h1>
+        <p>
+            I am Ravi Tamang, a software engineer
+        </p>
+        <img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" width="200px" height="20
+<img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" width="200px" height="200px"/>
+        <a href="https://www.linkedin.com/in/ravitmg"> Link to my LinkedIn profile</a>
+
+        <h3>My hobbies</h3>
+        <ul>
+            <li>Playing Games</li>
+            <li>Watching Anime</li>
+        </ul>
+	<li>Dota 2</li>
+	</ul>
+	<li>Watching animal

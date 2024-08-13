@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel ="stylesheet" href="./style.css"/>
+</head>
+<body>
+    <main>
+        <h1>
+            Welcome to My Website
+        </h1>
+        <p>
+            Hi I am Indraraj Lama, a Teacher
+        </p>
+        <img src="https://m.media-amazon.com/images/I/71sVQDj0SCL._AC_UF1000,1000_QL80_.jpg" width="200px" height="200px"/>
+        <a href="https://www.facebook.com/lama.indraraj">  Link to my facebook profile>
+</a>
+<h3>My Hobbies</h3>
+        <ul>
+            <li>playing Football</li>
+            <li>watching Movies</li>
+            <li>swimming</li>
+        </ul>
+        <h3>My Work</h3>
+        <ol>
+            <li>Teaching at Deurali</li>
+            <li>Farming</li> 
+        </ol>
+    </main>
+    <footer>
+        powered by @indraraj
+    </footer>
+can write here: powere by or copyright @indraraj .. etc.
+</body>
+ </html>

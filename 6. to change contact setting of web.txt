@@ -1,0 +1,57 @@
+
+in index.html :
+
+<section>
+             <h3>contact me</h3>
+            <form>
+                <label>your name</label>
+                <input/>
+                <label>your email</label>
+                <input/>
+
+                <label>message</label>
+                <textarea></textarea>
+            </form>     
+        </section>
+        </section>
+
+// in style.css:
+
+main {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #3b3a3a;
+    color: white;
+    font-size: 12px;
+    font-family: Arial;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 8px;
+}
+
+//to change contact label:
+
+<section>
+            <h3>Contact Me</h3>
+            <form>
+                <label>
+                    Your Name
+                    <input />
+                </label>
+
+                <label>
+                    Your Email
+                    <input />
+                </label>
+
+                <label>
+                    Message
+                    <textarea></textarea>
+                </label>
+
+                <button>Send</button>
+            </form>
+        </section>
